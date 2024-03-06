@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://enwherso.github.io/sitemap.txt
